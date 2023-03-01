@@ -8,7 +8,7 @@ KY-001 with real-time Matplotlib
 - RPi.GPIO -> control SR04 (Ultrasonic sensor)
 
 <p align="left">
-  <img src="./picture/result_graph.png" width="280" alt="accessibility text">
+  <img src="./picture/result_graph.png" width="400" alt="accessibility text">
 </p>
 
 ## Wiring diagram
@@ -17,11 +17,5 @@ KY-001 with real-time Matplotlib
   <img src="./picture/tempChart.png" width="500" alt="accessibility text">
 </p>
 
-## Real project 
- 
-<p align="left">
-  <img src="./picture/" width="280" alt="accessibility text">
-</p>
-
-### Result
+## Result
 ![result](./picture/result_temp.jpg)
