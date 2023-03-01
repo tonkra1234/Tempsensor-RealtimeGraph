@@ -1,20 +1,19 @@
 # Tempsensor-RealtimeGraph
-KY-001 with real-time Matplotlib
+KY-001 with real-time Matplotlib -> Raspberry KY-001 ds18b20 Tempature sensor
 
 
 ## The requirement 
-- Pigpio -> serve control
-- Matplotlib and Numpy -> create the polar chart
-- RPi.GPIO -> control SR04 (Ultrasonic sensor)
+- Matplotlib and Numpy -> create the real-time graph
+- RPi.GPIO -> control KY-001 (temp sensor) ds18b20
 
 <p align="left">
-  <img src="./picture/result_graph.png" width="400" alt="accessibility text">
+  <img src="./picture/result_graph.png" width="600" alt="accessibility text">
 </p>
 
 ## Wiring diagram
 
 <p align="left">
-  <img src="./picture/tempChart.png" width="500" alt="accessibility text">
+  <img src="./picture/tempChart.png" width="400" alt="accessibility text">
 </p>
 
 ## Result
